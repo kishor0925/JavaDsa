@@ -171,8 +171,8 @@ public class ArraysOperations{
             arr[i] = sc.nextInt();
         }
 
-        Arrays.sort(arr); 
-        SecondLargest(arr); 
+//        Arrays.sort(arr); 
+        findMissingNumber(arr); 
         
     
               
