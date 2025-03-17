@@ -25,9 +25,8 @@ public class ArraysOperations{
      
     
     
-    public static void ArrayRotation(int[] arr, int n)
-    
-    {
+public static void ArrayRotation(int[] arr, int n)
+{
     	int min = Integer.MAX_VALUE;
     	int max= Integer.MIN_VALUE;
     	
