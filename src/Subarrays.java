@@ -19,11 +19,6 @@ public class Subarrays
 	  printLongestSubarrays(arr, k);
   }
   
-  
-
-	
-
-
 	public static void printLongestSubarrays(int[] arr, int k) 
 	{
 		for(int size = arr.length; size >=  1; size--)
